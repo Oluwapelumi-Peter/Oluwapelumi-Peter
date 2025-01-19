@@ -3,9 +3,10 @@
 ## Welcome to my GitHub!
 
 ### About Me
-I am Oluwapelumi Peter, an Information Technology professional with experience within the IT ecosystem, specifically in Information Systems Management, Big Data and Business Intelligence. I am also a Data Science enthusiast.
+I am an Information Technology professional with vast experience.
 
-I work to drive a culture of achieving more with less, through the deployment and management of scalable business systems and insights.
+Currently, I create Business Intelligence through Data Analytics to facilitate profitable decisions and I manage Information Systems to ensure alignment of IT Investments with Business Objectives.
+I work to amplify business value by driving a culture of doing more with less, and I am also a Data Science and Machine Learning enthusiast.
 
 
 ### What to Expect
